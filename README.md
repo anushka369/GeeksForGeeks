@@ -1,6 +1,8 @@
 ## GeeksforGeeks 🤓
 
-This repository contains solutions to various problems from [GeeksforGeeks](https://www.geeksforgeeks.org/).
+This repository contains solutions to various problems from [GeeksforGeeks](https://www.geeksforgeeks.org/), covering different topics. The goal is to improve problem-solving skills and understand efficient algorithms.
+
+
 
 ---
 
