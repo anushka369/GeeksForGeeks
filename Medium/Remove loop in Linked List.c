@@ -12,8 +12,7 @@ struct Node
 
 class Solution 
 {
-    public:
-     
+    public:     
         void removeLoop(Node* head) 
         {
             Node *fast, *slow;
@@ -23,9 +22,11 @@ class Solution
             {
                 fast = fast -> next -> next;
                 slow = slow -> next;
+                
                 if (fast == slow)
                 {
                     slow = head;
+                    
                     if (slow == fast) 
                     {
                         while(fast -> next != slow) 
