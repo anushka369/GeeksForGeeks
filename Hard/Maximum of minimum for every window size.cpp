@@ -68,4 +68,38 @@ class Solution
       }
 };
 
+int main() 
+{
+    int t;
+    cin >> t;
+    cin.ignore();
+    
+    while (t--) 
+    {
+        string line;
+        getline(cin, line);
+        stringstream ss(line);
+        vector<int> arr;
+        int num;
+        
+        while (ss >> num) 
+        {
+            arr.push_back(num);
+        }
+        
+        Solution ob;
+        vector<int> res = ob.maxOfMins(arr);
+        
+        for (int i : res)
+        {    
+            cout << i << " ";
+        }
+        
+        cout << endl;
+        cout << "~\n";
+    }
+    
+    return 0;
+}
+
 // Link to the problem: https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1/
