@@ -77,7 +77,7 @@ Contributions are welcome! To contribute, please follow these steps:
 
 ## ⚠ **Disclaimer**
 
-These solutions are provided as-is for learning purposes only. They may not be the most optimized or efficient solutions. 
+These solutions are provided as-is for learning purposes only. <br> They may not be the most optimized or efficient solutions. 
 
 ---
 
