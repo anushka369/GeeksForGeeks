@@ -43,11 +43,11 @@ root
 │ ├── ProblemName.ext
 │ └── ....
 |
-├── Medium/
+├── Hard/
 │ ├── ProblemName.ext
 │ └── ....
 |
-├── Hard/
+├── Medium/
 │ ├── ProblemName.ext
 │ └── ....
 |
