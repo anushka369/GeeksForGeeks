@@ -58,7 +58,7 @@ root
 
 ## 🔗 Links to Problems
 
-Each solution file contains a link to the corresponding problem on HackerRank. <br> Please ensure you have a HackerRank account to view them.
+Each solution file contains a link to the corresponding problem. <br> Please ensure you have a GeeksForGeeks account to view them.
 
 ---
 
