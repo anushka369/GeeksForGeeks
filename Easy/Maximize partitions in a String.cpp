@@ -32,7 +32,6 @@ class Solution
         }
 };
 
-
 // Driver Code
 int main() 
 {
